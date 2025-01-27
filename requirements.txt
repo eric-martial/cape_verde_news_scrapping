@@ -1,0 +1,9 @@
+python-dotenv
+aiosqlite
+rich
+httpx
+parsel
+dateparser
+icecream
+fake-useragent
+loguru
